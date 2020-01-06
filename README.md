@@ -1,5 +1,7 @@
 # poly-modular
-Design of a polyphonic modular synthesizer with either digital or analog components
+Design of a polyphonic modular synthesizer with either digital or analog components.
+
+It should be able to accomodate as many voices as the user requires and as many sound sources per voice the user needs.
 
 Schematic and pcb design will be done with Kicad.
 https://kicad-pcb.org/
