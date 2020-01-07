@@ -1,0 +1,16 @@
+#N canvas 741 139 1055 831 10;
+#X obj 326 464 *~;
+#X obj 436 463 *~;
+#X obj 497 458 *~;
+#X obj 608 458 *~;
+#N canvas 420 628 660 300 (subpatch) 1;
+#X obj 107 69 inlet~;
+#X obj 105 203 outlet~;
+#X restore 489 171 pd;
+#X obj 318 176 osc~;
+#X obj 827 309 trigger;
+#X obj 441 279 line;
+#X obj 701 413;
+#X obj 204 292;
+#X obj 108 238 r graphit;
+#X obj 39 119 adsr 1 100 200 50 300;
