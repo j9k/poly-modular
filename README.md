@@ -18,4 +18,4 @@ Each type of synth block will consist of three parts.
 
 
 
-Voltages supplied by the power supply +/-15 maximum with the option of +/-12v 
+Voltages supplied by the power supply +/-15 maximum with the jumper option of +/-12v 
